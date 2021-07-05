@@ -8,6 +8,7 @@ fun main() {
     values[3]= 2
     values[4]= 7
 
+
         for(valor in values){
             println(valor)
         }
